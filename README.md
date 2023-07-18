@@ -4,7 +4,7 @@
 - Take a dataset of Uber and build a data model.
 - Data Transformation in Python and deploy the code on GCP cloud instance.
 - Build a pipeline using MAGE.
-- Load the data on BigQuery and perform Data Analysis.
+- Load the data on BigQuery and perform Data Analytics.
 - Create a dashboard on Looker Studio.
 
 ### Dataset
@@ -25,4 +25,21 @@ Data Dictionary for Yellow Taxi Trip data - https://www.nyc.gov/assets/tlc/downl
   3. MAGE
   4. Google BigQuery
   5. Looker Studio
- 
+
+
+ ## Data Model
+ The flat file obtained as data set will be converted to Fact Table and Dimension Table.
+
+#### Fact Table
+- Has quantitative measures used for analysis.
+- Contains references to Dimension table.
+- Has columns with high cardinality and changes frequently.
+- Contains columns which are not useful for analysis by themselves but are necessary for calculating metrics.
+
+#### Dimension Table
+- Contains columns which describe attributes of data being analyzed.
+- Has Primary Keys that links fact table. 
+- Has columns with low cardinality and doesn't change frequently.
+- Contains columns which are used for grouping or filtering data for analysis. 
+
+  
