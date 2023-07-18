@@ -8,8 +8,8 @@
 - Create a dashboard on Looker Studio.
 
 ### Dataset
-The dataset used for this project is taken from Uber trip records of NYC's Taxi and Limousine Commission (TLC).
-It can be accessed using this [Link](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+The dataset used for this project is taken from Uber trip records of NYC's Taxi and Limousine Commission (TLC). <br />
+It can be accessed using this [Link](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) <br />
 A subset of the data consisting 100k trips is used for this project. 
 
 
