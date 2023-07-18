@@ -20,8 +20,8 @@ Data Dictionary for Yellow Taxi Trip data - https://www.nyc.gov/assets/tlc/downl
   2. SQL
      
 - Tools Used
-  1. Google Cloud Storage
-  2. Compute Instance
+  1) Google Cloud Storage
+  2) Compute Instance
   3. MAGE
   4. Google BigQuery
   5. Looker Studio
