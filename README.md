@@ -59,6 +59,12 @@ Some of the transformation done include:
 Once all the dimension tables are created, to create a fact table we merge the main dataframe on all of the dimension tables based on the common key present between them.
 
 ### 4. BigQuery Analytics
-The Dimension tables and fact table created in Transformation block is uploaded on to BigQuery. Google BigQuery is a fully-managed data warehouse that provides efficient data storage, retrieval, and querying capabilities, and valuable insights from the data.
+The Dimension tables and fact table created in Transformation block is uploaded on to BigQuery. Google BigQuery is a fully-managed data warehouse that provides efficient data storage, retrieval, and querying capabilities, and valuable insights from the data. <br />
+An Analytical table is created which is more like a master table, that is used for analytics. 
 
-  
+### 5. Dashboard Development on Looker Studio
+An interactive dashboard is developed using Looker which helps in visualizing the results and deriving insights. 
+
+![image](https://github.com/Praveen-L-Uppunda/uber_data_engineering/assets/31701395/ed9bbe6f-3f98-420e-859f-477e7713dc11)
+
+![image](https://github.com/Praveen-L-Uppunda/uber_data_engineering/assets/31701395/de3163b4-b425-4008-9016-62a9ac3f0408)
