@@ -14,17 +14,16 @@ A subset of the data consisting 100k trips is used for this project - [Dataset](
 Data Dictionary for Yellow Taxi Trip data - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 <br />
-<br />
-<br />
+
 
 ### Tech Stack
 - Languages
   1. Python
-  2. SQL
+  1. SQL
 
 - Tools
   1. Google Storage
-  2. Compute Instance
-  3. MAGE
-  4. Google BigQuery
-  5. Looker Studio
+  1. Compute Instance
+  1. MAGE
+  1. Google BigQuery
+  1. Looker Studio
