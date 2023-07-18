@@ -15,13 +15,13 @@ Data Dictionary for Yellow Taxi Trip data - https://www.nyc.gov/assets/tlc/downl
 
 
 ### Tech Stack
-- Languages Used
+* Languages Used
   1. Python
   2. SQL
      
-- Tools Used
-  1) Google Cloud Storage
-  2) Compute Instance
+* Tools Used
+  1. Google Cloud Storage
+  2. Compute Instance
   3. MAGE
   4. Google BigQuery
   5. Looker Studio
