@@ -42,4 +42,6 @@ Data Dictionary for Yellow Taxi Trip data - https://www.nyc.gov/assets/tlc/downl
 - Has columns with low cardinality and doesn't change frequently.
 - Contains columns which are used for grouping or filtering data for analysis. 
 
+![image](https://github.com/Praveen-L-Uppunda/uber_data_engineering/assets/31701395/135be8ad-1825-4695-b0b8-8ebf8b9d86a0)
+
   
