@@ -64,6 +64,9 @@ An Analytical table is created which is more like a master table, that is used f
 
 ### 5. Dashboard Development on Looker Studio
 An interactive dashboard is developed using Looker which helps in visualizing the results and deriving insights. 
+Link to the Dashboards:
+  - [Dashboard1](https://lookerstudio.google.com/s/i-snpqVJXv4)
+  - [Dashboard2](https://lookerstudio.google.com/s/uAsTFkh8PnE)
 
 ![image](https://github.com/Praveen-L-Uppunda/uber_data_engineering/assets/31701395/ed9bbe6f-3f98-420e-859f-477e7713dc11)
 
